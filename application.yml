@@ -1,0 +1,7 @@
+security:
+  basic:
+    enable: true
+  user:
+    name: testing
+    password: testing
+    role: ADMIN
